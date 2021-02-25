@@ -7,3 +7,5 @@ The test device is: Samsung S10 5G (built in 2020)
 This dataset can be used for approaches with PDR, PF and KF.
 
 You can read the data by: reader.ipynb
+
+the paper is published: https://www.mdpi.com/2079-9292/10/4/397/htm
